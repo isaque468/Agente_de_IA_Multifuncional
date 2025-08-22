@@ -13,7 +13,7 @@ Ele não é apenas um chatbot, é uma suíte de ferramentas inteligentes:
 🧠 Responda a Qualquer Pergunta: De "Como funciona a fotossíntese?" a "Qual a diferença entre React e Vue.js?", ele oferece explicações claras e didáticas sobre qualquer assunto.
 
 A Magia por Trás do Código 🛠️
-Este agente é potencializado por uma "Santíssima Trindade" da IA moderna:
+Este agente é potencializado por uma "Trindade" da IA moderna:
 
 🧠 Cérebro (LLaMA 3.3 + Groq API): Um dos modelos de linguagem mais avançados do mundo, rodando com uma velocidade alucinante graças à Groq.
 
